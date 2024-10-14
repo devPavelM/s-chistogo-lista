@@ -64,8 +64,7 @@ blockquote {
 }
 
 .header__menu-item {
-  line-height: 19px;
-  height: 20px;
+  line-height: 19.2px;
 }
 
 .header__menu-link {
@@ -118,6 +117,7 @@ blockquote {
 .intro__title {
   line-height: 120%;
   font-weight: normal;
+  font-size: 16px;
 }
 
 .intro__date {
@@ -236,7 +236,7 @@ blockquote {
 }
 
 .card__text {
-  line-height: 22px;
+  line-height: 21.6px;
 }
 
 .footer {
